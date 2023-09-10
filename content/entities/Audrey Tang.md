@@ -1,6 +1,6 @@
 ---
 tags:
-  - entity-person
+  - entity/person
 ---
 
 Minister of Digital Affairs, Taiwan

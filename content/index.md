@@ -1,5 +1,5 @@
 ---
-title:
+title: Hello
 ---
 An evolving documentation of my opinions in formation on contentious issues around Technology, Politics and India. 
 
