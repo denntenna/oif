@@ -1,2 +1,2 @@
 # oif
-Using Digital Gardends to model my Opinons in Formation
+Using Digital Gardens to model my Opinons in Formation
