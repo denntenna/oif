@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Opinion in Formation",
+    pageTitle: "Opinions in Formation",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
