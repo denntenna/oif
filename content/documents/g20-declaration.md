@@ -1,12 +1,11 @@
 ---
 title: G20 Declaration
 author: GoI
-tags:
 ---
 
 ## E. Technological Transformation and Digital Public Infrastructure
 
-55. Technology can enable rapid transformations for bridging the existing digital divides and accelerate progress for inclusive and sustainable development. [[Digital Public Goods#DPI Digital Public Infrastructure|Digital public infrastructure (DPI)]], as an evolving concept and as a set of shared digital systems, built and leveraged by both the public and private sectors, based on secure and resilient infrastructure, and can be built on open standards and specifications, as well as opensource software can enable delivery of services at societal-scale. In our voluntary efforts to make digital public infrastructure interoperable, we recognize the importance of data free flow with trust and cross-border data flows while respecting applicable legal frameworks. We also reaffirm the role of Data for Development.
+55. Technology can enable rapid transformations for bridging the existing digital divides and accelerate progress for inclusive and sustainable development. [[digital-public-goods#DPI Digital Public Infrastructure|Digital public infrastructure (DPI)]], as an evolving concept and as a set of shared digital systems, built and leveraged by both the public and private sectors, based on secure and resilient infrastructure, and can be built on open standards and specifications, as well as opensource software can enable delivery of services at societal-scale. In our voluntary efforts to make digital public infrastructure interoperable, we recognize the importance of data free flow with trust and cross-border data flows while respecting applicable legal frameworks. We also reaffirm the role of Data for Development.
 
 ### Building Digital Public Infrastructure
 

@@ -5,11 +5,11 @@ An evolving documentation of my opinions in formation on contentious issues arou
 
 ## Opinions : 
 1. [[Deliberative Decision Making|on Deliberative Decision Making]]
-2. [[Synthetic Media|on Synthetic Media]]
-3. [[Digital Public Goods|on Digital Public Goods]]
-4. [[Digital Public Goods|on Digital Public Goods]]
-5. [[Web Scraping|on Web Scraping]]
-6. [[Technological Interventions|on Technological Interventions]]
+2. [[synthetic-media|on Synthetic Media]]
+3. [[digital-public-goods|on Digital Public Goods]]
+4. [[digital-public-goods|on Digital Public Goods]]
+5. [[web-scraping|on Web Scraping]]
+6. [[technological-interventions|on Technological Interventions]]
 
 
 
