@@ -1,1 +1,0 @@
-I came across this domain while working on a grant application for an OpenAI's grant.
